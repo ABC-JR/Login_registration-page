@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "756899764697",
+    "project_id": "baglanbek-e3407",
+    "storage_bucket": "baglanbek-e3407.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756899764697:android:1afdffb3af88cff141e1c8",
+        "android_client_info": {
+          "package_name": "com.asdasd.adafdas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdwGIEjzkNjP9cO9_DEMbBSdfDm103ZeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756899764697:android:fa77d6e73cc0f5fd41e1c8",
+        "android_client_info": {
+          "package_name": "com.example.login_register_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdwGIEjzkNjP9cO9_DEMbBSdfDm103ZeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
